@@ -1,4 +1,4 @@
-# 59. Model routing
+# Model routing
 
 Run `npm ci`, then `npm run dev` with Node 24 or newer. Open **Production & deployment → 59. Model routing**, or go to `?lesson=59`. Sample59 uses backend port **3059**. Vite uses **5173**, or the next free port.
 
